@@ -30,7 +30,7 @@
 ---
 
 ### Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=exchantress&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=exchantress&layout=compact&langs_count=8&theme=nightowl)
 
 ### Other
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hairakerca)
