@@ -31,6 +31,7 @@
 
 ### Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=exchantress&layout=compact&langs_count=8&theme=dracula)
+[![Top Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=dracula)]
 
 ### Other
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hairakerca)
