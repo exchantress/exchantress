@@ -30,7 +30,7 @@
 ---
 
 ### Top Langs
-![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exchantress&layout=compact&theme=dracula)
 
 ### Other
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hairakerca)
