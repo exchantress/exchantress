@@ -28,9 +28,7 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 
 ---
-
-### Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exchantress&layout=compact&theme=dracula)
+**Thanks For Visiting!**
 
 ### Other
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hairakerca)
